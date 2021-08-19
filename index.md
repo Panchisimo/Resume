@@ -90,7 +90,7 @@
           </ul>
         </div>
       </div>
-      <img src="networks.png" alt="Networks">
+      <img src="Foto.png" alt="Networks">
       <img src="Foto.png" alt="Foto">     
     </div>
 </body>
