@@ -90,8 +90,21 @@
           </ul>
         </div>
       </div>
+      <div>
+        <h1>Personal references</h1>
+        <div class="option-list">
+          <ul class="option-item">
+            <p>Balam Isaac Rodriguez Arellano</p>
+          </div>
+        </ul>
+        <div class="option-list">
+          <ul class="option-item">
+            <p>Kevin Kristop Morales Barranco</p>
+          </div>
+        </ul>
+      </div>
       <img src="networks.png" alt="Networks">
-      <img src="foto.png" alt="Foto">     
+      <img src="Foto.PNG" alt="Foto">     
     </div>
 </body>
 </html>
