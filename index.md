@@ -2,12 +2,12 @@
 <body>
   <div id="main">
     <div id="header">
+    <div>
+      <img src="Foto.png" alt="Foto" width="100"  height="120">     
+      </div>
       <div id="logo">
         <div id="logo_text">
           <h1>Hernandez Segura Francisco Javier</h1>
-          <div>
-            <img src="Foto.png" alt="Foto" width="100"          height="120">     
-          </div>
           <h2></h2>
         </div>
       </div>
