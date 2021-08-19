@@ -1,17 +1,10 @@
 <html>
-
-<head>
-  <title>SSOR</title>
-  <meta charset="UTF-8">
-  <link rel="stylesheet" type="text/css" href="style/style.css" title="style" />
-</head>
-
 <body>
   <div id="main">
     <div id="header">
       <div id="logo">
         <div id="logo_text">
-          <h1><a href="index.html">Seminario para la soluciÃ³n de problemas de<br> sistemas operativos de red</a></h1>
+          <h1><a href="index.html">Hernandez Segura<br> Francisco Javier</a></h1>
           <h2></h2>
         </div>
       </div>
@@ -19,40 +12,33 @@
     <div id="site_content">
       <div class="sidebar">
         <ul class="options-list">
-          <li class="options-item"><a href="tarea1.html">Tarea 1</a></li>
-          <li class="options-item"><a href="tarea2.html">Tarea 2</a></li>
-          <li class="options-item"><a href="tarea3.html">Tarea 3</a></li>
-          <li class="options-item"><a href="tarea4.html">Tarea 4</a></li>
-          <li class="options-item"><a href="tarea5.html">Tarea 5</a></li>
-          <li class="options-item"><a href="tarea6.html">Tarea 6</a></li>
-          <li class="options-item"><a href="tarea7.html">Tarea 7</a></li>
-          <li class="options-item"><a href="tarea8.html">Tarea 8</a></li>
-          <li class="options-item"><a href="tarea9.html">Tarea 9</a></li>
-          <li class="options-item"><a href="tarea10.html">Tarea 10</a></li>
-          <li class="options-item"><a href="tarea11.html">Tarea 11</a></li>
-          <li class="options-item"><a href="tarea12.html">Tarea 12</a></li>
+          <li class="options-item">Cellphone: 3310613918</a></li>
+          <li class="options-item">Age: 22 years old</a></li>
+          <li class="options-item">Nacionality: Mexicana</li>
+          <li class="options-item"><a href="https://www.facebook.com/francisco.h.segura">Facebook: Francisco Javier Hernandez</li>
           <li class="options-item"><a href="tarea13.html">Tarea 13</a></li>
         </ul>
       </div>
       <div id="content" class="center">
-        <h1>Objetivo</h1>
+        <h1>About myself</h1>
         <p>
-          Esta pÃ¡gina fue diseÃ±ada para mostrar ejemplos de los reportes de las actividades a realizar en la clase de Seminario para la soluciÃ³n de problemas de Sistemas Operativos de Red, de la carrera IngenierÃ­a en ComputaciÃ³n, en el Centro Universitario de Ciencias Exactas e IngenierÃ­as (CUCEI). Cada actividad debera diseñarse para ser un tutorial, así como evidenciar que es un desarrollo propio.
+          Im a student at CUCEI, i'm studying computer engineering, i'm 22 years old, i'm responsible in my work, respectful and compromised.
         </p>
         <p>
-          Este es solo un ejemplo, cada quien puede diseñar y mostrar las evidecias de trabajo de forma personalizada.
+          Middle school: Agustin Yañes #10
+          From 2012 to 2015
         </p>
         <p>
-          El diseÃ±o de la pÃ¡gina fue realizado con html5 y css3.
+            High School: Preparatoria #3
+            From: 2015 to 2017
+        </P>
+        <p>
+          University: CUCEI
+          From 2017 to present.
         </p>
         <br>
         <img src="networks.png" alt="Networks">
       </div>
     </div>
-    <div id="content_footer"></div>
-    <div id="footer">
-      MSI Francisco Javier Quintanilla Moreno
-    </div>
-  </div>
 </body>
 </html>
