@@ -6,6 +6,7 @@
         <div id="logo_text">
           <h1>Hernandez Segura Francisco Javier</h1>
           <h2></h2>
+          <img src="Foto.PNG" alt="Foto"> 
         </div>
       </div>
     </div>
@@ -95,16 +96,15 @@
         <div class="option-list">
           <ul class="option-item">
             <p>Balam Isaac Rodriguez Arellano</p>
-          </div>
-        </ul>
+          </ul>
+        </div>
         <div class="option-list">
           <ul class="option-item">
             <p>Kevin Kristop Morales Barranco</p>
-          </div>
-        </ul>
+          </ul>
+        </div>
       </div>
-      <img src="networks.png" alt="Networks">
-      <img src="Foto.PNG" alt="Foto">     
+      <img src="networks.png" alt="Networks">    
     </div>
 </body>
 </html>
