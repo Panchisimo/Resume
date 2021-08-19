@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
 <html>
 
 <head>
@@ -47,7 +46,7 @@
           El diseÃ±o de la pÃ¡gina fue realizado con html5 y css3.
         </p>
         <br>
-        <img src="imgs/networks.png" alt="Networks">
+        <img src="networks.png" alt="Networks">
       </div>
     </div>
     <div id="content_footer"></div>
