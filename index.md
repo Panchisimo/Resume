@@ -5,8 +5,7 @@
       <div id="logo">
         <div id="logo_text">
           <h1>Hernandez Segura Francisco Javier</h1>
-          <h2></h2>
-          <img src="Foto.PNG" alt="Foto"> 
+          <h2><img src="Foto.PNG" alt="Foto" width="100" height="120"> </h2>
         </div>
       </div>
     </div>
